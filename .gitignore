@@ -1,0 +1,15 @@
+# Environnement virtuel Python
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires des tests
+.pytest_cache/
+
+# Variables d'environnement et clés API
+.env
+
+# Documents scientifiques locaux
+data/
